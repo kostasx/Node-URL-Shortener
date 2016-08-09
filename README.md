@@ -5,6 +5,7 @@ Heavily inspired by the Hapi-based URL Shortener by [Luis Lopez](https://github.
 
 ```
 $ git clone git@github.com:kostasx/Node-URL-Shortener.git
+$ cd Node-URL-Shortener
 $ npm install
 $ npm start
 ```
