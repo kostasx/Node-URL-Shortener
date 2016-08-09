@@ -1,0 +1,17 @@
+{
+  "name": "urlshortener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shortener.js",
+  "scripts": {
+    "start": "node shortener.js"
+  },
+  "author": "kostasx <minaidisk@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.5.8",
+    "restify": "^4.1.1",
+    "shortid": "^2.2.6",
+    "validator": "^5.5.0"
+  }
+}
