@@ -1,5 +1,5 @@
 # Node-URL-Shortener
-A Node.js + Restify + MongoDB based URL Shortener written in CoffeeScript
+A [Node.js](https://nodejs.org/en/) + [Restify](http://restify.com/) + [MongoDB](https://www.mongodb.com/) based URL Shortener written in [CoffeeScript](http://coffeescript.org/)
 
 Heavily inspired by the Hapi-based URL Shortener by [Luis Lopez](https://github.com/luishendrix92/shortio)
 
